@@ -192,3 +192,11 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+
+#prevent old datas
+HR.ipynb
+HR_report.html
+HR_ver2.html
+HR_ver2.pdf
+WA_Fn-UseC_-HR-Employee-Attrition.csv
