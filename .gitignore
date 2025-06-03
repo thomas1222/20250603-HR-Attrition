@@ -191,6 +191,7 @@ cython_debug/
 #  exclude from AI features like autocomplete and code analysis. Recommended for sensitive data
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
+<<<<<<< HEAD
 .cursorindexingignore
 
 
@@ -200,3 +201,6 @@ HR_report.html
 HR_ver2.html
 HR_ver2.pdf
 WA_Fn-UseC_-HR-Employee-Attrition.csv
+=======
+.cursorindexingignore
+>>>>>>> ed8f6791ff80169bb33d3ed843287c77933eb5d4
